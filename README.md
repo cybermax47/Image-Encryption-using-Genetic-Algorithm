@@ -5,6 +5,7 @@ With the increasing need for **secure image transmission**, encryption technique
 
 Additionally, we compare the performance of **AES (Advanced Encryption Standard) and DES (Data Encryption Standard)** with the **Genetic Algorithm-based encryption** to highlight differences in security strength.
 
+
 ## 🛠️ Technologies Used
 - **Python** (NumPy, OpenCV, Matplotlib)
 - **Genetic Algorithm (GA)** (Selection, Crossover, Mutation)
